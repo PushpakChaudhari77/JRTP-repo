@@ -8,7 +8,9 @@ System.out.println("Sweet Dreams");
 }
 
 public void m3(){
-
+int x=10;
+int y=20;
+System.out.println("Addition of  & y is:"+ x + y );
 
 }
 
