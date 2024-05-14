@@ -13,5 +13,8 @@ int y=20;
 System.out.println("Addition of  & y is:"+ x + y );
 
 }
+public void m5(){
+System.out.println("Hey.." );
 
+}
 }
