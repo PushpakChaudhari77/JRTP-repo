@@ -13,12 +13,5 @@ int y=20;
 System.out.println("Addition of  & y is:"+ x + y );
 
 }
-public void m4(){
-System.out.println("Task 1" );
 
-}
-public void m5(){
-System.out.println("Task 2" );
-
-}
 }
